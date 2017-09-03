@@ -5,15 +5,15 @@ This collection of scripts is dedicated to one purpose: align, visualize, and qu
 
 ## Prerequisites
 The following programs need to be installed and available in the system $PATH variable:
-..* fastqc
-..* STAR
-..* bowtie (v1 for colorspace reads)
-..* tophat2 (for colorspace reads)
-..* rsem
-..* kallisto
-..* igvtools
-..* samtools
-..* Picard tools (as a separate folder)
+* fastqc
+* STAR
+* bowtie (v1 for colorspace reads)
+* tophat2 (for colorspace reads)
+* rsem
+* kallisto
+* igvtools
+* samtools
+* Picard tools (as a separate folder)
 
 ## Configuration file 
 The following options need to be specified in order for the pipeline to work.
