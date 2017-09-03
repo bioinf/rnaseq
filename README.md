@@ -1,5 +1,8 @@
 # RNA-seq one-command pipeline 
-<center>I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.</center>
+<p align="justify">
+I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.
+Bill Gates
+</p>
 
 This collection of scripts is dedicated to one purpose: align, visualize, and quantify RNA-seq experiments with minimal interaction and using the best practices. The pipeline is implemented in bash and implies the use of a Unix system. It is designed to be applicable to Illumina (paired- and singe-end experiments), as long as colorspace (ABI SOLID) reads. 
 
